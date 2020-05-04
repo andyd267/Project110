@@ -16,7 +16,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Travis" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bEJu3rNibAnEbj5MpfCC0tLH3v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,8 +46,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CelsiusTest.testCelsiusToString">
-    <configuration name="CelsiusTest.testCelsius" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FahrenheitTest">
+    <configuration name="CelsiusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project110" />
       <extension name="coverage">
         <pattern>
@@ -57,7 +57,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
       <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.CelsiusTest" />
-      <option name="METHOD_NAME" value="testCelsius" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CelsiusTest.testCelsiusToFahrenheit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project110" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.CelsiusTest" />
+      <option name="METHOD_NAME" value="testCelsiusToFahrenheit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,7 +94,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FahrenheitTest.testFahrenheitToCelsius" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FahrenheitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project110" />
       <extension name="coverage">
         <pattern>
@@ -89,24 +104,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
       <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.FahrenheitTest" />
-      <option name="METHOD_NAME" value="testFahrenheitToCelsius" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FahrenheitTest.testFahrenheitToFahrenheit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project110" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
-      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.FahrenheitTest" />
-      <option name="METHOD_NAME" value="testFahrenheitToFahrenheit" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FahrenheitTest" />
+        <item itemvalue="JUnit.CelsiusTest" />
+        <item itemvalue="JUnit.CelsiusTest.testCelsiusToFahrenheit" />
         <item itemvalue="JUnit.CelsiusTest.testCelsiusToString" />
         <item itemvalue="JUnit.FahrenheitTest.testFahrenheitToString" />
-        <item itemvalue="JUnit.FahrenheitTest.testFahrenheitToCelsius" />
-        <item itemvalue="JUnit.FahrenheitTest.testFahrenheitToFahrenheit" />
-        <item itemvalue="JUnit.CelsiusTest.testCelsius" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +147,7 @@
       <updated>1588191538163</updated>
       <workItem from="1588191545454" duration="3040000" />
       <workItem from="1588567278316" duration="5744000" />
+      <workItem from="1588575890437" duration="131000" />
     </task>
     <servers />
   </component>
@@ -160,26 +159,26 @@
       <screen x="0" y="0" width="1418" height="759" />
     </state>
     <state x="0" y="179" key="#com.intellij.ide.util.MemberChooser/0.0.1418.759@0.0.1418.759" timestamp="1588571068577" />
-    <state x="654" y="115" key="FileChooserDialogImpl" timestamp="1588569023170">
+    <state x="654" y="115" key="FileChooserDialogImpl" timestamp="1588575926387">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state x="654" y="115" key="FileChooserDialogImpl/0.0.1418.759@0.0.1418.759" timestamp="1588569023170" />
-    <state width="1374" height="2" key="GridCell.Tab.0.bottom" timestamp="1588574694691">
+    <state x="654" y="115" key="FileChooserDialogImpl/0.0.1418.759@0.0.1418.759" timestamp="1588575926387" />
+    <state width="1374" height="114" key="GridCell.Tab.0.bottom" timestamp="1588576217103">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="2" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1588574694691" />
-    <state width="1374" height="2" key="GridCell.Tab.0.center" timestamp="1588574694691">
+    <state width="1374" height="114" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1588576217103" />
+    <state width="1374" height="114" key="GridCell.Tab.0.center" timestamp="1588576217103">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="2" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1588574694691" />
-    <state width="1374" height="2" key="GridCell.Tab.0.left" timestamp="1588574694691">
+    <state width="1374" height="114" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1588576217103" />
+    <state width="1374" height="114" key="GridCell.Tab.0.left" timestamp="1588576217103">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="2" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1588574694691" />
-    <state width="1374" height="2" key="GridCell.Tab.0.right" timestamp="1588574694691">
+    <state width="1374" height="114" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1588576217103" />
+    <state width="1374" height="114" key="GridCell.Tab.0.right" timestamp="1588576217103">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="2" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1588574694691" />
+    <state width="1374" height="114" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1588576217103" />
     <state width="650" height="2" key="GridCell.Tab.1.bottom" timestamp="1588574694680">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
@@ -196,10 +195,10 @@
       <screen x="0" y="0" width="1418" height="759" />
     </state>
     <state width="650" height="2" key="GridCell.Tab.1.right/0.0.1418.759@0.0.1418.759" timestamp="1588574694679" />
-    <state x="408" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1588567277744">
+    <state x="408" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1588575891288">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state x="408" y="203" key="com.intellij.ide.util.TipDialog/0.0.1418.759@0.0.1418.759" timestamp="1588567277744" />
+    <state x="408" y="203" key="com.intellij.ide.util.TipDialog/0.0.1418.759@0.0.1418.759" timestamp="1588575891288" />
     <state x="764" y="359" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588569082081">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
