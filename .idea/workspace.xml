@@ -46,7 +46,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FahrenheitTest">
+  <component name="RunManager" selected="JUnit.CelsiusTest.testCelsiusToFahrenheit">
     <configuration name="CelsiusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project110" />
       <extension name="coverage">
@@ -127,9 +127,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CelsiusTest.testCelsiusToFahrenheit" />
         <item itemvalue="JUnit.FahrenheitTest" />
         <item itemvalue="JUnit.CelsiusTest" />
-        <item itemvalue="JUnit.CelsiusTest.testCelsiusToFahrenheit" />
         <item itemvalue="JUnit.CelsiusTest.testCelsiusToString" />
         <item itemvalue="JUnit.FahrenheitTest.testFahrenheitToString" />
       </list>
@@ -147,7 +147,7 @@
       <updated>1588191538163</updated>
       <workItem from="1588191545454" duration="3040000" />
       <workItem from="1588567278316" duration="5744000" />
-      <workItem from="1588575890437" duration="131000" />
+      <workItem from="1588575890437" duration="640000" />
     </task>
     <servers />
   </component>
@@ -163,22 +163,22 @@
       <screen x="0" y="0" width="1418" height="759" />
     </state>
     <state x="654" y="115" key="FileChooserDialogImpl/0.0.1418.759@0.0.1418.759" timestamp="1588575926387" />
-    <state width="1374" height="114" key="GridCell.Tab.0.bottom" timestamp="1588576217103">
+    <state width="1374" height="114" key="GridCell.Tab.0.bottom" timestamp="1588576738070">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="114" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1588576217103" />
-    <state width="1374" height="114" key="GridCell.Tab.0.center" timestamp="1588576217103">
+    <state width="1374" height="114" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1588576738070" />
+    <state width="1374" height="114" key="GridCell.Tab.0.center" timestamp="1588576738070">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="114" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1588576217103" />
-    <state width="1374" height="114" key="GridCell.Tab.0.left" timestamp="1588576217103">
+    <state width="1374" height="114" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1588576738070" />
+    <state width="1374" height="114" key="GridCell.Tab.0.left" timestamp="1588576738070">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="114" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1588576217103" />
-    <state width="1374" height="114" key="GridCell.Tab.0.right" timestamp="1588576217103">
+    <state width="1374" height="114" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1588576738070" />
+    <state width="1374" height="114" key="GridCell.Tab.0.right" timestamp="1588576738070">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="114" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1588576217103" />
+    <state width="1374" height="114" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1588576738070" />
     <state width="650" height="2" key="GridCell.Tab.1.bottom" timestamp="1588574694680">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
